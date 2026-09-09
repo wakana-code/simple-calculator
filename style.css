@@ -55,20 +55,20 @@ body {
 }
 
 .btn.op {
-  background: #ff9500;
+  background: #e53935;
 }
 
 .btn.op:hover {
-  background: #ffab33;
+  background: #ff5c52;
 }
 
 .btn.equal {
-  background: #ff9500;
+  background: #e53935;
   grid-column: span 2;
 }
 
 .btn.equal:hover {
-  background: #ffab33;
+  background: #ff5c52;
 }
 
 .btn.zero {
